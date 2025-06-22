@@ -2,10 +2,13 @@ install:
 	uv sync
 
 brain-games:
-    uv run brain-games
+	uv run brain-games
 
 build:
 	uv build
 
- package-install:
+package-install:
 	uv tool install dist/*.whl
+
+package-reinstall:
+	uv tool install --force dist/*.whl
