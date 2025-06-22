@@ -1,3 +1,6 @@
+lint:
+	uv run ruff check brain_games
+
 install:
 	uv sync
 
