@@ -11,8 +11,8 @@ def get_description():
 
 
 def generate_round():
-    num1 = randint(1, 100)
-    num2 = randint(1, 100)
+    num1 = randint(1, 10)
+    num2 = randint(1, 10)
         
     question = f'{num1} {num2}'
     correct_answer = calculate_gcd(num1, num2)
