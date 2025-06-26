@@ -1,4 +1,7 @@
-# python-package
+# 🧠 Игры разума (Brain Games)
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Hexlet](https://img.shields.io/badge/Hexlet-Project-green)
 
 [![Github Actions Status](https://github.com/hexlet-boilerplates/python-package/workflows/Python%20CI/badge.svg)](https://github.com/hexlet-boilerplates/python-package/actions)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=hexlet-boilerplates_python-package&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=hexlet-boilerplates_python-package)
@@ -12,23 +15,53 @@
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Ilia-Turygin_python-project-49&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Ilia-Turygin_python-project-49)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Ilia-Turygin_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Ilia-Turygin_python-project-49)
 
-### Links
 
-This project was built using these tools:
+**Игры разума** — это набор обучающих консольных мини-игр 🕹️, направленных на развитие логического мышления. Проект реализован на языке Python 🐍 
 
-| Tool                                                                   | Description                                             |
-|------------------------------------------------------------------------|---------------------------------------------------------|
-| [uv](https://docs.astral.sh/uv/)                                       | "An extremely fast Python package and project manager, written in Rust" |
-| [Pytest](https://pytest.org)                                           | "A mature full-featured Python testing tool"            |
-| [ruff](https://docs.astral.sh/ruff/)                                   | "An extremely fast Python linter and code formatter, written in Rust" |
+## 📚 Оглавление
+
+- [🚀 Установка](#-установка)
+- [🎮 Доступные игры](#-доступные-игры)
+  - [1️⃣ Проверка на чётность (brain-even)](#1️⃣-проверка-на-чётность-brain-even)
+  - [2️⃣ Калькулятор (brain-calc)](#2️⃣-калькулятор-brain-calc)
+  - [3️⃣ Наибольший общий делитель (brain-gcd)](#3️⃣-наибольший-общий-делитель-brain-gcd)
+  - [4️⃣ Арифметическая прогрессия (brain-progression)](#4️⃣-арифметическая-прогрессия-brain-progression)
+  - [5️⃣ Простое ли число? (brain-prime)](#5️⃣-простое-ли-число-brain-prime)
+- [▶️ Пример запуска](#️-пример-запуска)
+
 
 ---
 
-### Setup
+## 🚀 Установка
 
+1. Клонируйте репозиторий:
 ```bash
+git clone https://github.com/Ilia-Turygin/python-project-49.git
+cd python-project-49
+```
+
+2. Установите зависимости с помощью UV:
+   
+```bash
+uv install
+```
+
+3. Установите проект:
+   
+```bash
+make build
 make install
 ```
+
+## 🎮 Доступные игры
+Проверка на чётность (brain-even)
+
+🧩 Задача: определить, является ли число чётным.
+
+📌 Пример:
+
+[![asciicast](https://asciinema.org/a/oXEB3XDDVeD6emf4pGyrv5iwA.svg)](https://asciinema.org/a/oXEB3XDDVeD6emf4pGyrv5iwA)
+
 
 ### Examples
 
