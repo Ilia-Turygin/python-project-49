@@ -100,11 +100,11 @@ brain-prime
 
 ✅ Успешный результат
 
-[![asciicast](https://asciinema.org/a/oXEB3XDDVeD6emf4pGyrv5iwA.svg)](https://asciinema.org/a/oXEB3XDDVeD6emf4pGyrv5iwA)
+[![asciicast](https://asciinema.org/a/mpxfHT9ufG55H4u3YLEOY1Gi8.svg)](https://asciinema.org/a/mpxfHT9ufG55H4u3YLEOY1Gi8)
 
 ❌ Ошибка в ответе
 
-[![asciicast](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk.svg)](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk)
+[![asciicast](https://asciinema.org/a/IwKsODyDFgtoM4SzF1prVFziu.svg)](https://asciinema.org/a/IwKsODyDFgtoM4SzF1prVFziu)
 
 
 ### 4️⃣ Арифметическая прогрессия (brain-progression)
@@ -113,11 +113,11 @@ brain-prime
 
 ✅ Успешный результат
 
-[![asciicast](https://asciinema.org/a/oXEB3XDDVeD6emf4pGyrv5iwA.svg)](https://asciinema.org/a/oXEB3XDDVeD6emf4pGyrv5iwA)
+[![asciicast](https://asciinema.org/a/yp3Xb1MDBIeoL7AjiTp60Wx8v.svg)](https://asciinema.org/a/yp3Xb1MDBIeoL7AjiTp60Wx8v)
 
 ❌ Ошибка в ответе
 
-[![asciicast](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk.svg)](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk)
+[![asciicast](https://asciinema.org/a/ZwywDQuX0IWzlaL5InQtbkU5a.svg)](https://asciinema.org/a/ZwywDQuX0IWzlaL5InQtbkU5a)
 
 
 ### 5️⃣ Простое ли число? (brain-prime)
@@ -126,11 +126,11 @@ brain-prime
 
 ✅ Успешный результат
 
-[![asciicast](https://asciinema.org/a/oXEB3XDDVeD6emf4pGyrv5iwA.svg)](https://asciinema.org/a/oXEB3XDDVeD6emf4pGyrv5iwA)
+[![asciicast](https://asciinema.org/a/UZjjh4OoNtFjneBmDeVivyzvE.svg)](https://asciinema.org/a/UZjjh4OoNtFjneBmDeVivyzvE)
 
 ❌ Ошибка в ответе
 
-[![asciicast](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk.svg)](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk)
+[![asciicast](https://asciinema.org/a/NW4cEWGgwBgwmGqiDYLn5EfX9.svg)](https://asciinema.org/a/NW4cEWGgwBgwmGqiDYLn5EfX9)
 
 
 
