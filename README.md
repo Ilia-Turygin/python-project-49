@@ -52,7 +52,6 @@ uv install
 3. Установите проект:
    
 ```bash
-make build
 make install
 ```
 
