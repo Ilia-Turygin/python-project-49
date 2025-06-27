@@ -1,4 +1,4 @@
-from random import randint, choice
+from random import choice, randint
 
 
 def get_description():
@@ -12,7 +12,7 @@ def generate_round():
     num1 = randint(1, 10)
     num2 = randint(1, 10)
     operation = choice(operations)
-        
+
     if operation == '+':
         correct_answer = num1 + num2
     elif operation == '-':
@@ -23,8 +23,3 @@ def generate_round():
     question = f'{num1} {operation} {num2}'
 
     return question, str(correct_answer)
-   
-        
-   
-    
-  

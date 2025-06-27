@@ -15,6 +15,3 @@ package-install: #установка пакета в операционную с
 
 package-reinstall: #Переустановка пакета в операционную систему
 	uv tool install --force dist/*.whl
-
-brain-even: #запуск игры "Проверка на чётность"
-	uv run brain-even

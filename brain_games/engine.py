@@ -1,4 +1,5 @@
 from prompt import string
+
 from brain_games.cli import welcome_user
 
 
@@ -18,7 +19,10 @@ def run_game(game_description, generate_round):
             print('Correct!')
             correct_answers += 1
         else:
-            print(f"'{user_answer}' is wrong answer ;(. Correct answer was {correct_answer}.")
+            print(
+                f"'{user_answer}' is wrong answer ;(." 
+                f"Correct answer was {correct_answer}."
+                )
             print(f"Let's try again, {name}!")
             return
     

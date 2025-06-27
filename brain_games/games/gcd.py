@@ -6,6 +6,7 @@ def calculate_gcd(a, b):
         a, b = b, a % b
     return a
 
+
 def get_description():
     return 'Find the greatest common divisor of given numbers.'
 
