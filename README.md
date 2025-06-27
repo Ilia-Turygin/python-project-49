@@ -68,7 +68,7 @@ brain-prime
 
 ## 🎮 Доступные игры
 
-1️⃣ Проверка на чётность (brain-even)
+### 1️⃣ Проверка на чётность (brain-even)
 
 🧩 Задача: определи, является ли число чётным.
 
@@ -81,7 +81,7 @@ brain-prime
 [![asciicast](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk.svg)](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk)
 
 
-2️⃣ Калькулятор  (brain-calc)
+### 2️⃣ Калькулятор  (brain-calc)
 
 🧩 Задача: реши простое арифметическое выражение.
 
@@ -94,7 +94,7 @@ brain-prime
 [![asciicast](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk.svg)](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk)
 
 
-3️⃣ Наибольший общий делитель (brain-gcd)
+### 3️⃣ Наибольший общий делитель (brain-gcd)
 
 🧩 Задача: найди наибольший общий делитель двух чисел.
 
@@ -107,7 +107,7 @@ brain-prime
 [![asciicast](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk.svg)](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk)
 
 
-4️⃣ Арифметическая прогрессия (brain-progression)
+### 4️⃣ Арифметическая прогрессия (brain-progression)
 
 🧩 Задача: найди пропущенное число в арифметической прогрессии.
 
@@ -120,7 +120,7 @@ brain-prime
 [![asciicast](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk.svg)](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk)
 
 
-5️⃣ Простое ли число? (brain-prime)
+### 5️⃣ Простое ли число? (brain-prime)
 
 🧩 Задача: определи, является ли число простым.
 
