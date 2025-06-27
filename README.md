@@ -14,7 +14,7 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Ilia-Turygin_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Ilia-Turygin_python-project-49)
 
 
-![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
+
 
 
 
@@ -30,7 +30,7 @@
   - [3️⃣ Наибольший общий делитель (brain-gcd)](#3️⃣-наибольший-общий-делитель-brain-gcd)
   - [4️⃣ Арифметическая прогрессия (brain-progression)](#4️⃣-арифметическая-прогрессия-brain-progression)
   - [5️⃣ Простое ли число? (brain-prime)](#5️⃣-простое-ли-число-brain-prime)
-- [▶️ Пример запуска](#️-пример-запуска)
+
 
 
 ---
