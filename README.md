@@ -1,7 +1,5 @@
 # 🧠 Игры разума (Brain Games)
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Hexlet](https://img.shields.io/badge/Hexlet-Project-green)
 
 [![Github Actions Status](https://github.com/hexlet-boilerplates/python-package/workflows/Python%20CI/badge.svg)](https://github.com/hexlet-boilerplates/python-package/actions)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=hexlet-boilerplates_python-package&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=hexlet-boilerplates_python-package)
@@ -16,11 +14,16 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Ilia-Turygin_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Ilia-Turygin_python-project-49)
 
 
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
+
+
+
 **Игры разума** — это набор обучающих консольных мини-игр 🕹️, направленных на развитие логического мышления. Проект реализован на языке Python 🐍 
 
 ## 📚 Оглавление
 
-- [🚀 Установка](#-установка)
+- [⚙️ Установка](#-установка)
+- [🚀 Использование](#-Использование)
 - [🎮 Доступные игры](#-доступные-игры)
   - [1️⃣ Проверка на чётность (brain-even)](#1️⃣-проверка-на-чётность-brain-even)
   - [2️⃣ Калькулятор (brain-calc)](#2️⃣-калькулятор-brain-calc)
@@ -32,7 +35,7 @@
 
 ---
 
-## 🚀 Установка
+## ⚙️ Установка
 
 1. Клонируйте репозиторий:
 ```bash
@@ -53,37 +56,82 @@ make build
 make install
 ```
 
+## 🚀 Использование
+
+Для запуска любой игры введите команду:
+```bash
+brain-even
+brain-calc
+brain-gcd
+brain-progression
+brain-prime
+```
+
 ## 🎮 Доступные игры
-Проверка на чётность (brain-even)
 
-🧩 Задача: определить, является ли число чётным.
+1️⃣ Проверка на чётность (brain-even)
 
-📌 Пример:
+🧩 Задача: определи, является ли число чётным.
 
-[![asciicast](https://asciinema.org/a/oXEB3XDDVeD6emf4pGyrv5iwA.svg)](https://asciinema.org/a/oXEB3XDDVeD6emf4pGyrv5iwA)
-
-
-### Examples
-
-```bash
-uv run hexlet-python-package 5
-
-2.5
-```
-
-### Run tests
-
-```bash
-make test
-```
-
-[![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=python-package)
-
-This repository is created and maintained by the team and the community of Hexlet, an educational project. [Read more about Hexlet](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=python-package).
-
-See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
-
+✅ Успешный результат
 
 [![asciicast](https://asciinema.org/a/oXEB3XDDVeD6emf4pGyrv5iwA.svg)](https://asciinema.org/a/oXEB3XDDVeD6emf4pGyrv5iwA)
+
+❌ Ошибка в ответе
 
 [![asciicast](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk.svg)](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk)
+
+
+2️⃣ Калькулятор  (brain-calc)
+
+🧩 Задача: реши простое арифметическое выражение.
+
+✅ Успешный результат
+
+[![asciicast](https://asciinema.org/a/oXEB3XDDVeD6emf4pGyrv5iwA.svg)](https://asciinema.org/a/oXEB3XDDVeD6emf4pGyrv5iwA)
+
+❌ Ошибка в ответе
+
+[![asciicast](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk.svg)](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk)
+
+
+3️⃣ Наибольший общий делитель (brain-gcd)
+
+🧩 Задача: найди наибольший общий делитель двух чисел.
+
+✅ Успешный результат
+
+[![asciicast](https://asciinema.org/a/oXEB3XDDVeD6emf4pGyrv5iwA.svg)](https://asciinema.org/a/oXEB3XDDVeD6emf4pGyrv5iwA)
+
+❌ Ошибка в ответе
+
+[![asciicast](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk.svg)](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk)
+
+
+4️⃣ Арифметическая прогрессия (brain-progression)
+
+🧩 Задача: найди пропущенное число в арифметической прогрессии.
+
+✅ Успешный результат
+
+[![asciicast](https://asciinema.org/a/oXEB3XDDVeD6emf4pGyrv5iwA.svg)](https://asciinema.org/a/oXEB3XDDVeD6emf4pGyrv5iwA)
+
+❌ Ошибка в ответе
+
+[![asciicast](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk.svg)](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk)
+
+
+5️⃣ Простое ли число? (brain-prime)
+
+🧩 Задача: определи, является ли число простым.
+
+✅ Успешный результат
+
+[![asciicast](https://asciinema.org/a/oXEB3XDDVeD6emf4pGyrv5iwA.svg)](https://asciinema.org/a/oXEB3XDDVeD6emf4pGyrv5iwA)
+
+❌ Ошибка в ответе
+
+[![asciicast](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk.svg)](https://asciinema.org/a/gnQbmNeFm6meZ40KTuj93zyBk)
+
+
+
