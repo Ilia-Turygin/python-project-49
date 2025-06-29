@@ -6,9 +6,9 @@ def get_description():
 
 
 def generate_round():
-    start = randint(1, 20)
-    step = randint(1, 10)
-    length = randint(5, 10) 
+    start = randint(1, 20) # NOSONAR
+    step = randint(1, 10) # NOSONAR
+    length = randint(5, 10) # NOSONAR
     
     progression = [start + i * step for i in range(length)]
     
