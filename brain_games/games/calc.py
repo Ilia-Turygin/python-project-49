@@ -9,9 +9,9 @@ def generate_round():
 
     operations = ['+', '-', '*']
 
-    num1 = randint(1, 10) # NOSONAR
-    num2 = randint(1, 10) # NOSONAR
-    operation = choice(operations) # NOSONAR
+    num1 = randint(1, 10)  # NOSONAR
+    num2 = randint(1, 10)  # NOSONAR
+    operation = choice(operations)  # NOSONAR
 
     if operation == '+':
         correct_answer = num1 + num2
