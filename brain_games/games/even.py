@@ -6,6 +6,6 @@ def get_description():
 
 
 def generate_round():
-    random_number = randint(1, 100) # NOSONAR
+    random_number = randint(1, 100)  # NOSONAR
     correct_answer = 'yes' if random_number % 2 == 0 else 'no'
     return str(random_number), correct_answer
