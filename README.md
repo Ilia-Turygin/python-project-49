@@ -1,16 +1,16 @@
 ### Hexlet tests and linter status:
 
-[![Actions Status](https://github.com/Ilia-Turygin/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Ilia-Turygin/python-project-49/actions)
+[![Actions Status](https://github.com/iliatur/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/iliatur/python-project-49/actions)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=hexlet-boilerplates_python-package&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=hexlet-boilerplates_python-package)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Ilia-Turygin_python-project-49&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Ilia-Turygin_python-project-49)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Ilia-Turygin_python-project-49&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=Ilia-Turygin_python-project-49)
-[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=Ilia-Turygin_python-project-49&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=Ilia-Turygin_python-project-49)
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Ilia-Turygin_python-project-49&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=Ilia-Turygin_python-project-49)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Ilia-Turygin_python-project-49&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Ilia-Turygin_python-project-49)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Ilia-Turygin_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Ilia-Turygin_python-project-49)
-[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=Ilia-Turygin_python-project-49&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=Ilia-Turygin_python-project-49)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Ilia-Turygin_python-project-49&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Ilia-Turygin_python-project-49)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Ilia-Turygin_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Ilia-Turygin_python-project-49)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=iliatur_python-project-49&metric=bugs)](https://sonarcloud.io/summary/new_code?id=iliatur_python-project-49)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=iliatur_python-project-49&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=iliatur_python-project-49)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=iliatur_python-project-49&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=iliatur_python-project-49)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=iliatur_python-project-49&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=iliatur_python-project-49)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=iliatur_python-project-49&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=iliatur_python-project-49)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=iliatur_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=iliatur_python-project-49)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=iliatur_python-project-49&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=iliatur_python-project-49)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=iliatur_python-project-49&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=iliatur_python-project-49)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=iliatur_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=iliatur_python-project-49)
 
 
 # 🧠 Игры разума (Brain Games)
@@ -36,7 +36,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/Ilia-Turygin/python-project-49.git
+git clone https://github.com/iliatur/python-project-49.git
 cd python-project-49
 ```
 
