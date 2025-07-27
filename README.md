@@ -10,7 +10,7 @@
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=iliatur_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=iliatur_python-project-49)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=iliatur_python-project-49&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=iliatur_python-project-49)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=iliatur_python-project-49&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=iliatur_python-project-49)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=iliatur_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=iliatur_python-project-49)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Ilia-Turygin_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Ilia-Turygin_python-project-49)
 
 
 # 🧠 Игры разума (Brain Games)
